@@ -13,11 +13,11 @@ package-lock.json
 coverage
 
 # build
-/locale
-/plugin
-dayjs.min.js
-/esm
-index.d.ts
+#/locale
+#/plugin
+#dayjs.min.js
+#/esm
+#index.d.ts
 
 #dev
 demo.js
